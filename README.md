@@ -1,1 +1,2 @@
 # SQL-Data-Analysis
+The File contains Excel- sheets of Data Representation: -The Data Analysis is made using Statistical and Econometric concepts in real-time situations.Impactful Data Representation is done using the correct charts for the respective data. observations of the charts are noted down in the insert box on each sheet.
