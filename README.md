@@ -1,3 +1,4 @@
+
 # SQL-Data-Analysis
 Sql queries using Aggregate, group by and having functions.
 Sql queries using joins
